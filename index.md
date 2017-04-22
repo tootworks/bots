@@ -4,24 +4,9 @@ permalink: /
 ---
 
 This is a listing of Mastodon bots. [Edit this page on GitHub.](https://github.com/tootworks/bots/edit/master/index.md)
-
-## General Information / Data
-### Financial
-* [@HowCostETH@masto.themimitoof.fr](https://masto.themimitoof.fr/@HowCostETH)
-* [@HowCostBTC@masto.themimitoof.fr](https://masto.themimitoof.fr/@HowCostBTC)
-
-## News
-### Science
-* [@phys@social.oalm.gub.uy](https://social.oalm.gub.uy/phys)
-* [@nasa@social.oalm.gub.uy](https://social.oalm.gub.uy/nasa)
-* [@universetoday@social.oalm.gub.uy](https://social.oalm.gub.uy/universetoday)
-
-### Technology
-* [@hnbot@pegelinux.ga](https://pegelinux.ga/@hnbot)
-* [@wired@social.undernet.uy](https://social.undernet.uy/@wired)
-
-## Art / Fun
-* [@aquarium@botsin.space](https://botsin.space/@aquarium)
+## Tools / Utilities
+* [@translator@toot.works](https://toot.works/@translator)
+* [@PongBot@toot.works](https://toot.works/@PongBot)
 
 ## Mastodon / Meta
 ### User Count Bots
@@ -35,3 +20,21 @@ This is a listing of Mastodon bots. [Edit this page on GitHub.](https://github.c
 
 ### Just Toots
 * [@bigben@mastodon.org.uk](https://mastodon.org.uk/@bigben)
+
+## Art / Fun
+* [@aquarium@botsin.space](https://botsin.space/@aquarium)
+
+## Information / Data
+### Financial
+* [@HowCostETH@masto.themimitoof.fr](https://masto.themimitoof.fr/@HowCostETH)
+* [@HowCostBTC@masto.themimitoof.fr](https://masto.themimitoof.fr/@HowCostBTC)
+
+## News
+### Science
+* [@phys@social.oalm.gub.uy](https://social.oalm.gub.uy/phys)
+* [@nasa@social.oalm.gub.uy](https://social.oalm.gub.uy/nasa)
+* [@universetoday@social.oalm.gub.uy](https://social.oalm.gub.uy/universetoday)
+
+### Technology
+* [@hnbot@pegelinux.ga](https://pegelinux.ga/@hnbot)
+* [@wired@social.undernet.uy](https://social.undernet.uy/@wired)
