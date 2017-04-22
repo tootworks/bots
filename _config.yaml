@@ -1,0 +1,12 @@
+title: Mastodon Bot Directory
+tagline: A listing of Mastodon bots.
+author:
+  name: Christopher Su
+  github: csu
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
