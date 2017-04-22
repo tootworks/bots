@@ -3,7 +3,7 @@ title: Mastodon Bot Directory
 permalink: /
 ---
 
-This is a listing of Mastodon bots. [Edit this page on GitHub.](#)
+This is a listing of Mastodon bots. [Edit this page on GitHub.](https://github.com/tootworks/bots/edit/master/index.md)
 
 ## General Information / Data
 ### Financial
