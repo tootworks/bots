@@ -15,6 +15,10 @@ This is a listing of Mastodon bots. [Edit this page on GitHub.](https://github.c
 ### Instances
 * [@actual_instances@misanthropy.wang](https://misanthropy.wang/@actual_instances)
 
+### Ambassador Bots
+* [@ambassador@a.weirder.earth](https://a.weirder.earth/@ambassador)
+* [@AmbassadorBot@mst3k.interlinked.me](https://mst3k.interlinked.me/@AmbassadorBot)
+
 ### Follow/Federation Bots
 * [@federationbot@mastodon.direct](https://mastodon.direct/@federationbot)
 
