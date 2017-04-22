@@ -6,7 +6,7 @@ permalink: /
 This is a listing of Mastodon bots. [Edit this page on GitHub.](https://github.com/tootworks/bots/edit/master/index.md)
 ## Tools / Utilities
 - [**translator**@toot.works](https://toot.works/@translator)
-- [**Pong**Bot@toot.works](https://toot.works/@PongBot)
+- [**PongBot**@toot.works](https://toot.works/@PongBot)
 
 ## Mastodon / Meta
 ### User Count Bots
@@ -31,8 +31,8 @@ This is a listing of Mastodon bots. [Edit this page on GitHub.](https://github.c
 
 ## Information / Data
 ### Financial
-- [**How**CostETH@masto.themimitoof.fr](https://masto.themimitoof.fr/@HowCostETH)
-- [**How**CostBTC@masto.themimitoof.fr](https://masto.themimitoof.fr/@HowCostBTC)
+- [**HowCostETH**@masto.themimitoof.fr](https://masto.themimitoof.fr/@HowCostETH)
+- [**HowCostBTC**@masto.themimitoof.fr](https://masto.themimitoof.fr/@HowCostBTC)
 
 ## News
 ### Science
