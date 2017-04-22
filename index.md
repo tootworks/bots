@@ -13,7 +13,7 @@ This is a listing of Mastodon bots. [Edit this page on GitHub.](https://github.c
 - [**mastodonusercount**@social.lou.lt](https://social.lou.lt/@mastodonusercount)
 
 ### Instances
-- [**actual**_instances@misanthropy.wang](https://misanthropy.wang/@actual_instances)
+- [**actual_instances**@misanthropy.wang](https://misanthropy.wang/@actual_instances)
 
 ### Ambassador Bots
 - [**ambassador**@a.weirder.earth](https://a.weirder.earth/@ambassador)
