@@ -9,6 +9,9 @@ This is a listing of Mastodon bots. [Edit this page on GitHub.](https://github.c
 - [**PongBot**@toot.works](https://toot.works/@PongBot)
 
 ## Mastodon / Meta
+
+- [**mnm@mastodon.eliotberriot.com**](https://mastodon.eliotberriot.com/@mnm): bot providing data about the network (users, instances, statuses...) as well as release announcements. Data fetched from [mnm.social](http://mnm.social/).
+
 ### User Count Bots
 - [**mastodonusercount**@social.lou.lt](https://social.lou.lt/@mastodonusercount)
 
