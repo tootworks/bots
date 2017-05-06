@@ -24,6 +24,7 @@ This is a listing of Mastodon bots. [Edit this page on GitHub.](https://github.c
 
 ### Just Toots
 - [**bigben**@mastodon.org.uk](https://mastodon.org.uk/@bigben)
+- [**carillonchambery**@framapiaf.org](https://framapiaf.org/@carillonchambery)
 
 ## Art / Fun
 - [**aquarium**@botsin.space](https://botsin.space/@aquarium)
